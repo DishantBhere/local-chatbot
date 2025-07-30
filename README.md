@@ -17,7 +17,19 @@ A lightweight, terminal-based chatbot built in Python that connects directly wit
 ---
 
 ## 📸 Screenshots
-![Screenshot 1](https://github.com/user-attachments/assets/e8b79e65-fe8d-453d-b62e-86f8949d2aed) ![Screenshot 2](https://github.com/user-attachments/assets/3737dc6b-9a31-4dd8-bf73-a0f0581c2af2) ![Screenshot 3](https://github.com/user-attachments/assets/8b392fbe-40dc-4bfb-8d63-08bf1778d8c2)
+
+⚠️ Note: Apologies for the image quality. Due to hardware limitations on my personal system, I was unable to run the model locally. The screenshots were taken using a college lab machine where the setup was successful.
+
+![Screenshot 1](https://github.com/user-attachments/assets/005275ed-f93d-4a04-9101-3d24a49d2fe2) ![Screenshot 2](https://github.com/user-attachments/assets/14d08e2b-2e76-4864-a2bf-ec1da0cc3e4a) ![Screenshot 3](https://github.com/user-attachments/assets/c1c90c0b-1fb3-4957-bd96-ce9f9e2d3564)
+
+
+
+
+
+
+
+
+
 
 ---
 
