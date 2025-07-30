@@ -12,7 +12,7 @@ A lightweight, terminal-based chatbot built in Python that connects directly wit
 ## 🌐 Live Demo / Repository Links
 
 > 💻 No live demo – this is a local project  
-> 📦 [GitHub Repo](https://github.com/yourusername/ollama-local-chatbot)
+> 📦 [GitHub Repo](https://github.com/DishantBhere/local-chatbot)
 
 ---
 
