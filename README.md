@@ -99,18 +99,14 @@ Handling local APIs and JSON responses
  Add markdown/text formatting to responses
 
 # 🙋‍♂️ Built By
+
 👨‍💻 Dishant Bhere
-📧 dishantwork7@example.com
+
+📧 dishantwork7@gmail.com
+
 🌐 GitHub Profile
+
 📍 India
 
 
 ---
-
-Let me know if you want:
-- Flask version added  
-- Screenshot/GIF placeholders inserted  
-- MIT license dropped in as a file  
-- Link replacement with your actual GitHub URLs  
-
-Ready when you are.
