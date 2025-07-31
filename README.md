@@ -111,7 +111,7 @@ Handling local APIs and JSON responses
 
 📧 dishantwork7@gmail.com
 
-🌐 GitHub Profile
+🌐 https://github.com/DishantBhere
 
 📍 India
 
